@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hello, I'm Tosiken!
 
-<!--
-**tosik-en/tosik-en** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! My name is Tosiken and this is my GitHub profile. I'm a passionate developer who loves creating interesting projects.
 
-Here are some ideas to get you started:
+## My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: Python, SQL, C#
+- Databases: MySQL
+- Tools: Git, PyCharm
+
+## My Projects
+
+Ohh... No one project now...
+- [Project 1](https://github.com/Tosiken/project1): Brief description of project 1.
+- [Project 2](https://github.com/Tosiken/project2): Brief description of project 2.
+- [Project 3](https://github.com/Tosiken/project3): Brief description of project 3.
+
+I'm open to discussing any ideas or collaborations. Feel free to get in touch!
